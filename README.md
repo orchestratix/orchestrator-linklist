@@ -67,19 +67,6 @@ Feel free to make pull requests to correct or extend the list.
     - [Release Notes 7.0](https://docs.vmware.com/en/vRealize-Orchestrator/7.0/rn/vrealize-orchestrator-70-release-notes.html)
     - [Release Notes 7.0.1](https://docs.vmware.com/en/vRealize-Orchestrator/7.0/rn/vrealize-orchestrator-701-release-notes.html)
 
-
-## Orchestrator Appliance
-
-- appliance manager
-- control center
-    - api browser
-    - api
-- orcherstrator
-    - api browser
-    - api
-    - [Using the vRealize Orchestrator REST API
-    ](https://docs.vmware.com/en/vRealize-Orchestrator/7.6/com.vmware.vrealize.orchestrator-develop-web-services.doc/GUID-E767F363-6FEA-4998-8119-9C51C5A9C73A.html) - Further documentation for the Orchestrator REST API
-
 # Integration
 
 ## Plug-Ins
