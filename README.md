@@ -1,8 +1,8 @@
 # About
 
-This list contains usefull :link: links for the [VMware vRealize Orchestrator (vRO)](https://www.vmware.com/products/vrealize-orchestrator.html). There are many useful resources distributed at different places. This list should help to find certain documents faster and explore new areas.
+This list contains usefull links for the [VMware vRealize Orchestrator (vRO)](https://www.vmware.com/products/vrealize-orchestrator.html). There are many useful resources distributed at different places. This list should help to find specific  documents faster and explore new pages/projects.
 
-Feel free to make pull requests to correct or extend the list.
+Feel free to contribute and make pull requests to correct or extend the list.
 
 
 ## Contents
