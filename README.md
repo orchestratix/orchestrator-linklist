@@ -14,18 +14,19 @@ Feel free to contribute and make pull requests to correct or extend the list.
 - [Orchestrator](#orchestrator)
     - [Official pages](#official-pages)
     - [Orchestrator Versions](#orchestrator-versions)
-    - [Orchestrator Appliance](#orchestrator-appliance)
 - [Integration](#integration)
     - [Plug-Ins](#plug-ins)
         - [Built-In Plug-Ins](#built-in-plug-ins)
         - [External Plug-Ins](#external-plug-ins)
     - [Frameworks](#frameworks)
+    - [Scripting](#scripting)
 - [Learning](#learning)
     - [Books](#books)
     - [Video Tutorials](#video-tutorials)
     - [Communities](#communities)
 - [Further Links](#further-links)
     - [Blogs](#blogs)
+    - [Twitter Accounts](#twitter-accounts)
 
 <!-- /TOC -->
 
@@ -83,6 +84,11 @@ Feel free to contribute and make pull requests to correct or extend the list.
 
 ## Frameworks
 - [PowervRO](https://github.com/jakkulabs/PowervRO) - Integration of orchestrator into powershell (e.g. start orchestrator workflow by powershell)
+- [vRoast](https://vroast.io/) - Visual Studio Code & Git Integration for vRO
+
+## Scripting
+- [vRO Code Exchange](https://code.vmware.com/samples) - A lot of Code examples for vRO, external plugins and API´s
+- [vRO API Explorer](http://vroapi.com/) - API Explorer from vRO in a webpage overview
 
 # Learning
 
@@ -93,13 +99,13 @@ Feel free to contribute and make pull requests to correct or extend the list.
 ## Video Tutorials
 
 - [Automating with vRealize Orchestrator](https://www.youtube.com/playlist?list=PL1JSSDnw-d0ETv0GM6KOUoVKg_M-IFwzi) - YouTube playlist with an Orchestrator introduction by Brian Watrous
-- [vCenter Orchestrator Playlist of VMware Education & Certification
-](https://www.youtube.com/playlist?list=PL6611Q6qmwxX6eVkJqsBJboke0MnFFkF2) - Series of videos to get started with the orchestrator
+- [vCenter Orchestrator Playlist of VMware Education & Certification](https://www.youtube.com/playlist?list=PL6611Q6qmwxX6eVkJqsBJboke0MnFFkF2) - Series of videos to get started with the orchestrator
 
 ## Communities
 
 - [vRealize Orchestrator Community](https://communities.vmware.com/community/vmtn/vrealize/orchestrator/overview) - Very helpful and active community with lots of content and people that actively help you with questions/problems
 - [VMware {code}](https://code.vmware.com/join) - Slack channel for #vro and other VMware products
+- [VMUG](https://community.vmug.com/communities) - Real-Life Community around the world with interesting customer presentations and networking time
 
 # Further Links
 
@@ -107,3 +113,13 @@ Feel free to contribute and make pull requests to correct or extend the list.
 
 - [vCOTeam](https://www.vcoteam.info/) - Lots of useful orchestrator articles with helpful code snippets
 - [virtuallyGhetto](https://www.virtuallyghetto.com/) - Tons of helpful articles about VMware automation provided by [William Lam](https://github.com/lamw)
+- [RuneCast](https://www.runecast.com/blog) - Blog with very interessting plugin and security topics for vRO
+- [vCO Portal](http://www.vcoportal.de/) - Lots of useful orchestrator articles with helpful code snippets
+- [Spas Kaloferov's Blog](http://kaloferov.com/blog/category/vco/) - High Quality Content Blog with vRO Topics provided by [Spas Kaloferov](https://twitter.com/SpasKaloferov)
+
+## Twitter Accounts
+
+- [@vCOTeam](https://twitter.com/vCOTeam?lang=en)
+- [@vRealizeAuto](https://twitter.com/vrealizeauto?lang=en)
+- [@Runecast](https://twitter.com/Runecast?lang=en)
+- [@joerglew](https://twitter.com/joerglew)
