@@ -23,6 +23,7 @@ Feel free to contribute and make pull requests to correct or extend the list.
 - [Learning](#learning)
     - [Books](#books)
     - [Video Tutorials](#video-tutorials)
+    - [Communities](#communities)
 - [Further Links](#further-links)
     - [Blogs](#blogs)
 
@@ -92,6 +93,13 @@ Feel free to contribute and make pull requests to correct or extend the list.
 ## Video Tutorials
 
 - [Automating with vRealize Orchestrator](https://www.youtube.com/playlist?list=PL1JSSDnw-d0ETv0GM6KOUoVKg_M-IFwzi) - YouTube playlist with an Orchestrator introduction by Brian Watrous
+- [vCenter Orchestrator Playlist of VMware Education & Certification
+](https://www.youtube.com/playlist?list=PL6611Q6qmwxX6eVkJqsBJboke0MnFFkF2) - Series of videos to get started with the orchestrator
+
+## Communities
+
+- [vRealize Orchestrator Community](https://communities.vmware.com/community/vmtn/vrealize/orchestrator/overview) - Very helpful and active community with lots of content and people that actively help you with questions/problems
+- [VMware {code}](https://code.vmware.com/join) - Slack channel for #vro and other VMware products
 
 # Further Links
 
