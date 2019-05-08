@@ -10,23 +10,23 @@ Feel free to contribute and make pull requests to correct or extend the list.
 <!-- TOC -->
 
 - [About](#about)
-  - [Contents](#contents)
+    - [Contents](#contents)
 - [Orchestrator](#orchestrator)
-  - [Official pages](#official-pages)
-  - [Orchestrator Versions](#orchestrator-versions)
+    - [Official pages](#official-pages)
+    - [Orchestrator Versions](#orchestrator-versions)
 - [Integration](#integration)
-  - [Plug-Ins](#plug-ins)
-    - [Built-In Plug-Ins](#built-in-plug-ins)
-    - [External Plug-Ins](#external-plug-ins)
-  - [Frameworks](#frameworks)
-  - [Scripting](#scripting)
+    - [Plug-Ins](#plug-ins)
+        - [Built-In Plug-Ins](#built-in-plug-ins)
+        - [External Plug-Ins](#external-plug-ins)
+    - [Frameworks](#frameworks)
+    - [Scripting](#scripting)
 - [Learning](#learning)
-  - [Books](#books)
-  - [Video Tutorials](#video-tutorials)
-  - [Communities](#communities)
+    - [Books](#books)
+    - [Video Tutorials](#video-tutorials)
+    - [Communities](#communities)
 - [Further Links](#further-links)
-  - [Blogs](#blogs)
-  - [Twitter Accounts](#twitter-accounts)
+    - [Blogs](#blogs)
+    - [Twitter Accounts](#twitter-accounts)
 
 <!-- /TOC -->
 
@@ -81,10 +81,10 @@ Feel free to contribute and make pull requests to correct or extend the list.
 ### External Plug-Ins
 
 - [VMware Marketplace](https://marketplace.vmware.com/vsx/?product=3458,1890,1891,1892,1893,1896&contentType=63) - List of orchestrator plug-ins provided by different parties 
-- [vRoast](https://vroast.io/) - Visual Studio Code & Git Integration for vRO
 
 ## Frameworks
 - [PowervRO](https://github.com/jakkulabs/PowervRO) - Integration of orchestrator into powershell (e.g. start orchestrator workflow by powershell)
+- [vRoast](https://vroast.io/) - Visual Studio Code & Git Integration for vRO
 
 ## Scripting
 - [vRO Code Exchange](https://code.vmware.com/samples) - A lot of Code examples for vRO, external plugins and API´s
