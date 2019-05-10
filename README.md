@@ -22,11 +22,12 @@ Feel free to contribute and make pull requests to correct or extend the list.
     - [Scripting](#scripting)
 - [Learning](#learning)
     - [Books](#books)
+    - [Trainings](#trainings)
     - [Video Tutorials](#video-tutorials)
     - [Communities](#communities)
 - [Further Links](#further-links)
     - [Blogs](#blogs)
-    - [Twitter Accounts](#twitter-accounts)
+    - [Twitter](#twitter)
 
 <!-- /TOC -->
 
@@ -94,18 +95,29 @@ Feel free to contribute and make pull requests to correct or extend the list.
 
 ## Books
 
+- [VMware vRealize Orchestrator Essentials](https://www.packtpub.com/virtualization-and-cloud/vmware-vrealize-orchestrator-essentials) - General introduction to vro
 - [VMware vRealize Orchestrator Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/vmware-vrealize-orchestrator-cookbook-second-edition) - Introduction to the Orchestrator with helpful recipes and documentation about the appliance setup 
+- [Eloquent JavaScript](http://eloquentjavascript.net/) - Free ebook about JavaScript
+
+## Trainings
+
+- [Data Center Automation with vRealize Orchestrator and vSphere PowerCLI
+](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=71972) - VMware Education automation trainig for orchestrator and PowerCLI
+- [VMware Cloud Orchestration and Extensibility](https://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&a=one&id_subject=76643) - VMware Education training for vro in combination with vra
+- [Introduction to Workflow Development with VMware vRealize Orchestrator (vRO)](https://www.pluralsight.com/courses/vmware-vrealize-orchestrator-workflow-development) - Pluralsight online training for the vro
 
 ## Video Tutorials
 
 - [Automating with vRealize Orchestrator](https://www.youtube.com/playlist?list=PL1JSSDnw-d0ETv0GM6KOUoVKg_M-IFwzi) - YouTube playlist with an Orchestrator introduction by Brian Watrous
 - [vCenter Orchestrator Playlist of VMware Education & Certification](https://www.youtube.com/playlist?list=PL6611Q6qmwxX6eVkJqsBJboke0MnFFkF2) - Series of videos to get started with the orchestrator
+- [vBrownBag - Joerg Lew teaching vRealize Orchestrator](https://www.youtube.com/watch?v=Z8Aje67ph9c) - Introduction to vro by [Joerg Lew](https://github.com/tschoergez)
+- [#vBrownBag Automation Track](https://vbrownbag.com/vbrownbag-technology-series/vbrownbag-automate-all-the-things-training-schedule/) - Collection of recordings about vro, powercli and other automation topics
 
 ## Communities
 
 - [vRealize Orchestrator Community](https://communities.vmware.com/community/vmtn/vrealize/orchestrator/overview) - Very helpful and active community with lots of content and people that actively help you with questions/problems
 - [VMware {code}](https://code.vmware.com/join) - Slack channel for #vro and other VMware products
-- [VMUG](https://community.vmug.com/communities) - Real-Life Community around the world with interesting customer presentations and networking time
+- [VMUG](https://community.vmug.com/home) - Real-Life Community around the world with interesting customer presentations and networking time
 
 # Further Links
 
@@ -116,10 +128,12 @@ Feel free to contribute and make pull requests to correct or extend the list.
 - [RuneCast](https://www.runecast.com/blog) - Blog with very interessting plugin and security topics for vRO
 - [vCO Portal](http://www.vcoportal.de/) - Lots of useful orchestrator articles with helpful code snippets
 - [Spas Kaloferov's Blog](http://kaloferov.com/blog/category/vco/) - High Quality Content Blog with vRO Topics provided by [Spas Kaloferov](https://twitter.com/SpasKaloferov)
+- [vra4u](https://vra4u.wordpress.com/category/vro/) - Quite new but already interesting blog about vRO and vRA
 
-## Twitter Accounts
+## Twitter
 
 - [@vCOTeam](https://twitter.com/vCOTeam?lang=en)
 - [@vRealizeAuto](https://twitter.com/vrealizeauto?lang=en)
 - [@Runecast](https://twitter.com/Runecast?lang=en)
 - [@joerglew](https://twitter.com/joerglew)
+- [#vRO](https://twitter.com/search?q=%23vro&src=typd) - Popular twitter hashtag for orchestrator content
