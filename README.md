@@ -86,6 +86,7 @@ Feel free to contribute and make pull requests to correct or extend the list.
 ## Frameworks
 - [PowervRO](https://github.com/jakkulabs/PowervRO) - Integration of orchestrator into powershell (e.g. start orchestrator workflow by powershell)
 - [vRoast](https://vroast.io/) - Visual Studio Code & Git Integration for vRO
+- [vro-package-diff](https://github.com/lrivallain/vro-package-diff) - A diff tool (written in python) for VMware vRealize Orchestrator packages files
 
 ## Scripting
 - [vRO Code Exchange](https://code.vmware.com/samples) - A lot of Code examples for vRO, external plugins and API´s
