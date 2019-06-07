@@ -13,6 +13,7 @@ Feel free to contribute and make pull requests to correct or extend the list.
     - [Contents](#contents)
 - [Orchestrator](#orchestrator)
     - [Official pages](#official-pages)
+    - [Additional documentation](#additional-documentation)
     - [Orchestrator Versions](#orchestrator-versions)
 - [Integration](#integration)
     - [Plug-Ins](#plug-ins)
@@ -40,6 +41,10 @@ Feel free to contribute and make pull requests to correct or extend the list.
 - [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) - Product landing page
 - [VMware Docs - Current](https://docs.vmware.com/en/vRealize-Orchestrator/index.html) - Current orchestrator documentation provided by VMware for different versions (Version 5.5 - current)
 - [VMware documentation - Legacy](https://www.vmware.com/support/pubs/orchestrator_pubs.html) - Legacy VMware orchestrator documentation (Version 4 - 5.1.3.1)
+
+## Additional documentation
+
+- [vPorts](https://vports.info/ports/) - An overview about ports used by VMware products with links to further documentation
 
 ## Orchestrator Versions
 
