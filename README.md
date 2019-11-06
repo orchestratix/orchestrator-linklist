@@ -51,6 +51,9 @@ Feel free to contribute and make pull requests to correct or extend the list.
 - [Product Lifecycle Matrix](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf) - VMware lifecycle matrix including the Orchestrator
 
 **Supported versions**
+- 8.0
+    - [Download](https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_vrealize_automation/8_0)
+    - [Release Notes](https://docs.vmware.com/en/vRealize-Orchestrator/8.0/rn/VMware-vRealize-Orchestrator-80-Release-Notes.html)
 - 7.6
     - [Download](https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_vrealize_automation/7_6)
     - [Release Notes](https://docs.vmware.com/en/vRealize-Orchestrator/7.6/rn/VMware-vRealize-Orchestrator-76-Release-Notes.html)
